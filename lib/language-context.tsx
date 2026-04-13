@@ -192,7 +192,7 @@ export const translations = {
       greeting: "Привет!",
       greetings: ["Привет!", "Здравствуйте!"],
       namePrefix: "Я",
-      name: "Тэмүүжин Шинэбаяр", // РЕДАКТИРУЕМОЕ: Ваше имя
+      name: "Temuujin Shinebayr", // РЕДАКТИРУЕМОЕ: Ваше имя
       role: "UI/UX Дизайнер & Фронтенд-разработчик",
       description:
         "Создаю современные, интерактивные веб-интерфейсы с вниманием к деталям и пользовательскому опыту",
@@ -329,7 +329,7 @@ export const translations = {
         name: "Имя",
         namePlaceholder: "Ваше имя",
         email: "Email",
-        emailPlaceholder: "shinebayartemuujin@gmail.com",
+        emailPlaceholder: "email@example.com",
         message: "Сообщение",
         messagePlaceholder: "Расскажите о вашем проекте или идее...",
         submit: "Отправить сообщение",
