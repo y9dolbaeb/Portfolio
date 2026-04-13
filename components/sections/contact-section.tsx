@@ -179,7 +179,7 @@ export function ContactSection() {
                   {t.contact.email}
                 </p>
                 <p className="font-semibold text-foreground group-hover:text-primary transition-colors">
-                  {contactInfo.email}
+                  shinebayartemuujin@gmail.com
                 </p>
               </div>
             </a>

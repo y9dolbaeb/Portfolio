@@ -160,9 +160,9 @@ export const translations = {
       findMe: "Find me online",
       form: {
         name: "Name",
-        namePlaceholder: "Temuujin Shinebayar",
+        namePlaceholder: "Name",
         email: "Email",
-        emailPlaceholder: "shinebayartemuujin@gmail.com  ",
+        emailPlaceholder: "Email",
         message: "Message",
         messagePlaceholder: "Tell me about your project or idea...",
         submit: "Send Message",
