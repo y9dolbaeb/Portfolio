@@ -9,7 +9,7 @@ export function FloatingIcons() {
       {/* Left side icons */}
       <div className="bg-black absolute left-4 lg:left-8 xl:left-16 top-1/4 animate-float opacity-100 hover:opacity-100 transition-opacity">
         <Image
-          src="/images/Figma.png"
+          src="/images/figma.png"
           alt="Figma"
           width={80}
           height={80}
