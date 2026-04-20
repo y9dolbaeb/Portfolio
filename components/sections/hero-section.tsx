@@ -138,7 +138,7 @@ export function HeroSection() {
                 </span>
                 {[
                   {
-                    href: "https://github.com",
+                    href: "https://github.com/y9dolbaeb",
                     icon: Github,
                     label: "GitHub",
                     color:

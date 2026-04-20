@@ -208,7 +208,7 @@ export function ContactSection() {
                 {contactInfo.socialLinks.map((link) => (
                   <a
                     key={link.name}
-                    href={link.url}
+                    href={"https://github.com/y9dolbaeb"}
                     target="_blank"
                     rel="noopener noreferrer"
                     className={cn(
